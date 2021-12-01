@@ -1,0 +1,18 @@
+p{
+    color: chartreuse;
+    font-size: 40px;
+}
+h1{
+    color: cyan;
+    font-size: 80px;
+}
+h2{
+    color: darkred;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li{
+    color: deeppink;
+    font-size: 50px;
+    background-color: black;
+}
